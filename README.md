@@ -1,7 +1,7 @@
 # Tableau-Projects
 
 Thanks for taking the time to check out some of my projects!
-**Most of my projects are uploaded to my [public Tableau account](https://public.tableau.com/app/profile/matt.matt4307/vizzes)**
+**Most of my projects are uploaded to my [public Tableau account](https://public.tableau.com/app/profile/matt.matt4307/vizzes)**.
 Alternatively, I have listed some of my favorites below with more information:
 
 ## Airways Performance Review
